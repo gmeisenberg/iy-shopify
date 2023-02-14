@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "{{ shop.brand.cover_image }}",
-        "image_overlay_opacity": 50,
+        "image_overlay_opacity": 60,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
