@@ -8,3 +8,7 @@ h2, .h2,
 .header__menu-item .icon-caret {
   color: rgba(var(--color-base-accent-2));
 }
+.banner:after,
+.banner__media:after {
+  background: #062659;
+}
