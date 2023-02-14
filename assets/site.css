@@ -10,5 +10,5 @@ h2, .h2,
 }
 .banner:after,
 .banner__media:after {
-  background: #062659;
+  background: #062659 !important;
 }
