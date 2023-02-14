@@ -1,0 +1,10 @@
+h1, .h1,
+h2, .h2,
+.header__menu-item {
+  color: rgba(var(--color-base-accent-1));
+}
+.header__menu-item:hover,
+.header__active-menu-item,
+.header__menu-item .icon-caret {
+  color: rgba(var(--color-base-accent-2));
+}

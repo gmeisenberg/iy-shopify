@@ -1,0 +1,86 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "6938eb31-5b31-49c4-b955-89b4deed8718": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have minimum quantities on Embroidery?",
+            "icon": "none",
+            "row_content": "<p>No.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have minimum quantities on Screen Printing?",
+            "icon": "none",
+            "row_content": "<p>Yes… IY has a 12 piece minimum for screen printed items. (Restrictions apply- call for details 302.999.0562)<\/p>",
+            "page": ""
+          }
+        },
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you have minimum quantites on Promotional Products?",
+            "icon": "none",
+            "row_content": "<p>Yes….Minimum quantities vary by item- call for details 302.999.0562)<br\/><\/p>",
+            "page": ""
+          }
+        },
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your turn-around time?",
+            "icon": "none",
+            "row_content": "<p>Normal Turn-around time is 5 – 10 business days. However, we always do our best to meet our customer’s deadlines.<\/p>",
+            "page": ""
+          }
+        },
+        "f80a69fe-187f-43b3-a265-e74b9e6b44a3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer free estimates?",
+            "icon": "none",
+            "row_content": "<p>Yes. Call or email us today for your free estimate (302.999.0562; info@iyincde.com)<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-0",
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-1",
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-2",
+        "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-3",
+        "f80a69fe-187f-43b3-a265-e74b9e6b44a3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6938eb31-5b31-49c4-b955-89b4deed8718"
+  ]
+}
