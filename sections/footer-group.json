@@ -10,7 +10,7 @@
           "settings": {
             "image": "{{ shop.brand.square_logo }}",
             "image_width": 300,
-            "alignment": "center"
+            "alignment": ""
           }
         },
         "footer-0": {
