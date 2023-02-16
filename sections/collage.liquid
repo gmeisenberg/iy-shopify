@@ -62,7 +62,7 @@
                       <h3 class="card__heading">
                         {%- if block.settings.image_url -%}
                           <a href="{{ block.settings.image_url }}" class="full-unstyled-link">
-                            {{ block.settings.image_label }}<span class="icon-wrap">{% render 'icon-arrow' %}</span>
+                            {{ block.settings.image_label }} <span class="icon-wrap">{% render 'icon-arrow' %}</span>
                           </a>
                         {%- else %}
                           {{ block.settings.image_label }}
@@ -368,14 +368,14 @@
           "label": "t:sections.collage.blocks.image.settings.image.label"
         },
         {
-          "type": "text",
-          "id": "image_label",
-          "label": "Label"
-        },
-        {
           "type": "url",
           "id": "image_url",
           "label": "URL"
+        },
+        {
+          "type": "text",
+          "id": "image_label",
+          "label": "Label"
         }
       ]
     },
