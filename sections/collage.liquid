@@ -50,6 +50,21 @@
                     {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                   {%- endif -%}
                 </div>
+                <div class="card__content">
+                  <div class="card__information">
+                    {%- if block.settings.image_label -%}
+                      <h3 class="card__heading">
+                        {%- if block.settings.image_url -%}
+                          <a href="{{ block.settings.image_url }}" class="full-unstyled-link">
+                            {{ block.settings.image_label }}<span class="icon-wrap">{% render 'icon-arrow' %}</span>
+                          </a>
+                        {%- else %}
+                          {{ block.settings.image_label }}
+                        {%- endif %}
+                      </h3>
+                    {%- endif %}
+                  </div>
+                </div>
               </div>
             {%- when 'product' -%}
               {% render 'card-product',
