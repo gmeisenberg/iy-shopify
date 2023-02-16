@@ -47,7 +47,7 @@
         <h3 class="card__heading">
         {%- if url -%}
           <a href="{{ card_collection.url }}" class="full-unstyled-link">
-            <span class="icon-wrap">{% render 'icon-arrow' %}</span>
+            {{ label }}<span class="icon-wrap">{% render 'icon-arrow' %}</span>
           </a>
         {%- else -%}
           {{ label }}
