@@ -163,11 +163,14 @@
         "9e862226-50b1-433d-997d-941c8f0b6f5e",
         "ec59add4-8b2d-49a8-9fd6-34dd75ed5cd9"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "Just some of our clients",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
