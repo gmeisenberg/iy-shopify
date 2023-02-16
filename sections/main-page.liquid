@@ -64,7 +64,7 @@
 
 <header class="page-header">
   <div class="page-header__image">
-    {{ page_header_image | image_url: width: 100% | image_tag }}
+    {{ page_header_image | image_url: width: 3840 | image_tag: loading: 'lazy' }}
   </div>
   <h1 class="main-page-title page-title h0">
     {{ page.title | escape }}
