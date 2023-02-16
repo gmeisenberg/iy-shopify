@@ -66,14 +66,6 @@
                 extend_height: true,
                 wrapper_class: section.settings.card_styles
               %}
-            {%- when 'page' -%}
-              {% render 'card-page',
-                card_page: block.settings.page,
-                media_aspect_ratio: 'adapt',
-                columns: 2,
-                extend_height: true,
-                wrapper_class: section.settings.card_styles
-              %}
             {%- when 'video' -%}
               <div class="collage-card {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}{{ section.settings.card_styles }} color-{{ settings.card_color_scheme }}{% endif %}">
                 <noscript>
@@ -381,17 +373,6 @@
           "type": "collection",
           "id": "collection",
           "label": "t:sections.collage.blocks.collection.settings.collection.label"
-        }
-      ]
-    },
-    {
-      "type": "page",
-      "name": "Page",
-      "settings": [
-        {
-          "type": "page",
-          "id": "page",
-          "label": "Page"
         }
       ]
     },
