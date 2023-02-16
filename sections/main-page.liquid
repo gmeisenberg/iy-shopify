@@ -4,17 +4,18 @@
 <noscript>{{ 'section-main-page.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
 
+{% assign page_header_image = shop.brand.cover_image %}
+{% if page.metafields.custom.header_image %}
+  {% assign page_header_image = page.metafields.custom.header_image %}
+{% endif %}
+
 {%- style -%}
   .page-header {
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 20rem;
-    {% if shop.brand.cover_image %}
-        background: url({{ shop.brand.cover_image | image_url }}) no-repeat center 10% / cover;
-    {% else %}
-        background: rgba(var(--color-base-accent-1));
-    {% endif %}
+    background: rgba(var(--color-base-accent-1)) url({{ page_header_image | image_url }}) no-repeat center 10% / cover;
   }
   .page-header .main-page-title {
     color: rgba(var(--color-base-background-1));
