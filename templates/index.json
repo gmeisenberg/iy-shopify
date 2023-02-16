@@ -58,24 +58,24 @@
             "image_label": "Embroidered Logo Apparel"
           }
         },
-        "ce362661-58c8-4a1e-9cd3-6e35a83c7779": {
-          "type": "image",
-          "settings": {
-            "image_url": "",
-            "image_label": ""
-          }
-        },
         "d57af4ed-26d7-42bc-894c-91753184e1b7": {
           "type": "collection",
           "settings": {
             "collection": ""
           }
+        },
+        "4031131e-20b4-416f-a6b4-275e3c3abb5d": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
         }
       },
       "block_order": [
         "b7216aa3-f730-4c9c-bc47-50583a0dfcd2",
-        "ce362661-58c8-4a1e-9cd3-6e35a83c7779",
-        "d57af4ed-26d7-42bc-894c-91753184e1b7"
+        "d57af4ed-26d7-42bc-894c-91753184e1b7",
+        "4031131e-20b4-416f-a6b4-275e3c3abb5d"
       ],
       "settings": {
         "heading": "Multimedia collage",
