@@ -49,6 +49,17 @@
     },
     "72424de8-9519-4840-b639-713d575cb832": {
       "type": "collage",
+      "blocks": {
+        "67b72846-3cd7-4080-9b10-80a3d655ac9f": {
+          "type": "page",
+          "settings": {
+            "page": "embroidered-logo-apparel"
+          }
+        }
+      },
+      "block_order": [
+        "67b72846-3cd7-4080-9b10-80a3d655ac9f"
+      ],
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h1",
