@@ -53,8 +53,9 @@
         "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9": {
           "type": "image",
           "settings": {
-            "image_label": "",
-            "image_url": ""
+            "image": "shopify:\/\/shop_images\/DSC_0262.jpg",
+            "image_label": "Embroidered Logo Apparel",
+            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
           }
         },
         "8886928f-6284-46d9-9914-5d28646252b8": {
