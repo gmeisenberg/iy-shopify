@@ -170,7 +170,7 @@
         "title": "Just some of our clients",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "center",
         "background_style": "none",
