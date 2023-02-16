@@ -56,10 +56,26 @@
             "image_label": "",
             "image_url": ""
           }
+        },
+        "8886928f-6284-46d9-9914-5d28646252b8": {
+          "type": "image",
+          "settings": {
+            "image_label": "",
+            "image_url": ""
+          }
+        },
+        "98d4adc9-af03-46d7-becc-3b8a6ef32027": {
+          "type": "image",
+          "settings": {
+            "image_label": "",
+            "image_url": ""
+          }
         }
       },
       "block_order": [
-        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9"
+        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9",
+        "8886928f-6284-46d9-9914-5d28646252b8",
+        "98d4adc9-af03-46d7-becc-3b8a6ef32027"
       ],
       "settings": {
         "heading": "Multimedia collage",
