@@ -65,11 +65,20 @@
             "image_label": "Embroidered Headwear",
             "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
           }
+        },
+        "b399aac3-7b21-482e-8df3-637715ad4bc2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_0262.jpg",
+            "image_label": "Sports Uniforms & More",
+            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
+          }
         }
       },
       "block_order": [
         "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9",
-        "8886928f-6284-46d9-9914-5d28646252b8"
+        "8886928f-6284-46d9-9914-5d28646252b8",
+        "b399aac3-7b21-482e-8df3-637715ad4bc2"
       ],
       "settings": {
         "heading": "Multimedia collage",
