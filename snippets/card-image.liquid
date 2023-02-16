@@ -44,7 +44,7 @@
     {%- if label != blank -%}
     <div class="card__content">
       <div class="card__information">
-        <h3 class="card-information">
+        <p class="card-information">
         {%- if url -%}
           <a href="{{ card_collection.url }}" class="full-unstyled-link">
             {{ label }}<span class="icon-wrap">{% render 'icon-arrow' %}</span>
@@ -52,7 +52,7 @@
         {%- else -%}
           {{ label }}
         {%- endif -%}
-        </h3>
+        </p>
       </div>
     </div>
     {%- endif -%}
