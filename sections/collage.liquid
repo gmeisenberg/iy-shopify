@@ -36,7 +36,7 @@
           {%- case block.type -%}
             {%- when 'image' -%}
               <div class="collage-card {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}card-wrapper {{ section.settings.card_styles }} color-{{ settings.card_color_scheme }}{% endif %}">
-                <div class="card card--standard {% if block.settings.image_label %}card--text card--extend-height{% endif %}">
+                <div class="card--standard {% if block.settings.image_label != blank %}card card--text card--extend-height{% endif %}">
                   <div class="{% if block.settings.image_label != blank %}card__inner{% endif %}">
                     <div
                       class="media media--transparent ratio"
@@ -64,7 +64,7 @@
                       {%- endif -%}
                     </div>
                   </div>
-                  {%- if block.settings.image_label -%}
+                  {%- if block.settings.image_label != blank -%}
                   <div class="card__content">
                     <div class="card__information">
                       <h3 class="card__heading">
