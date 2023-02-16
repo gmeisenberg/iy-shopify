@@ -65,18 +65,18 @@
             "image_url": ""
           }
         },
-        "98d4adc9-af03-46d7-becc-3b8a6ef32027": {
-          "type": "image",
+        "8eb906d3-62d8-4d80-8ed0-e1084cfbb947": {
+          "type": "product",
           "settings": {
-            "image_label": "",
-            "image_url": ""
+            "product": "",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9",
         "8886928f-6284-46d9-9914-5d28646252b8",
-        "98d4adc9-af03-46d7-becc-3b8a6ef32027"
+        "8eb906d3-62d8-4d80-8ed0-e1084cfbb947"
       ],
       "settings": {
         "heading": "Multimedia collage",
