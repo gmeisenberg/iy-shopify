@@ -30,7 +30,7 @@
         >
           {%- case block.type -%}
             {%- when 'image' -%}
-              <div class="collage-card {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}card-wrapper {{ section.settings.card_styles }} color-{{ settings.card_color_scheme }}{% endif %}">
+              <div class="collage-card animate-arrow {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}card-wrapper {{ section.settings.card_styles }} color-{{ settings.card_color_scheme }}{% endif %}">
                 <div
                   class="media media--transparent ratio"
                   {% if block.settings.image != blank %}
