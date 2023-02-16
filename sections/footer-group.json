@@ -5,9 +5,9 @@
     "819966b2-9912-42f5-9c29-c66b0d7bcc5d": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% if template.name == 'index' %}\n<script>(function(){window.a=\"rt\";if(!(\"rt\"in window)){var c=document.createElement(\"script\");c.src=\"\/\/reviewtube.com\/embed\/e.php?p=CXZ\";c.async=true;var d=document.getElementsByTagName(\"script\")[0];d.parentNode.insertBefore(c,d);window.b=function(){}}})();<\/script>\n<div class='reviewtube' embed=\"CXZ\" viewType=\"fullwidth\" ><\/div>\n{% endif %}",
+        "custom_liquid": "{%- if template.name == 'index' -%}\n<h2 class=\"h1\">Video Reviews<\/h2>\n<div>\nWe think we’re great, but don’t just listen to us, hear it in our customers’ own words.\n<\/div>\n<script>(function(){window.a=\"rt\";if(!(\"rt\"in window)){var c=document.createElement(\"script\");c.src=\"\/\/reviewtube.com\/embed\/e.php?p=CXZ\";c.async=true;var d=document.getElementsByTagName(\"script\")[0];d.parentNode.insertBefore(c,d);window.b=function(){}}})();<\/script>\n<div class='reviewtube' embed=\"CXZ\" viewType=\"fullwidth\" ><\/div>\n{%- endif -%}",
         "color_scheme": "background-1",
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
