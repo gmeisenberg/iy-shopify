@@ -10,7 +10,11 @@
     align-items: center;
     justify-content: center;
     min-height: 20rem;
-    background: rgba(var(--color-base-accent-1));
+    {% if shop.brand.cover_image %}
+        background: url({{ shop.brand.cover_image | image_url }}) no-repeat center 10% / cover;
+    {% else %}
+        background: rgba(var(--color-base-accent-1));
+    {% endif %}
   }
   .page-header .main-page-title {
     color: rgba(var(--color-base-background-1));
