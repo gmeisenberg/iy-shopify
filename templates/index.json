@@ -61,22 +61,15 @@
         "8886928f-6284-46d9-9914-5d28646252b8": {
           "type": "image",
           "settings": {
-            "image_label": "",
-            "image_url": ""
-          }
-        },
-        "8eb906d3-62d8-4d80-8ed0-e1084cfbb947": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
+            "image": "shopify:\/\/shop_images\/DSC_0262.jpg",
+            "image_label": "Embroidered Headwear",
+            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
           }
         }
       },
       "block_order": [
         "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9",
-        "8886928f-6284-46d9-9914-5d28646252b8",
-        "8eb906d3-62d8-4d80-8ed0-e1084cfbb947"
+        "8886928f-6284-46d9-9914-5d28646252b8"
       ],
       "settings": {
         "heading": "Multimedia collage",
