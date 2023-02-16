@@ -13,7 +13,7 @@
 {% endcomment %}
 
 <div class="collage-card animate-arrow {% if wrapper_class and wrapper_class != 'none' %}{{ wrapper_class }}{% endif %} {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}card-wrapper{% endif %}">
-  <div class="card card--standard card--text {% if extend_height %}card--extend-height{% endif %}">
+  <div class="{% if label != blank %}card{% endif %} card--standard card--text {% if extend_height %}card--extend-height{% endif %}">
     <div class="{% if label != blank %}card__inner{% endif %}">
       <div
         class="media media--transparent ratio"
