@@ -108,6 +108,7 @@
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
     "brand_image": "{{ shop.brand.square_logo }}",
+    "brand_image_width": 260,
     "social_facebook_link": "https:\/\/www.facebook.com\/InitiallyYoursInc",
     "social_instagram_link": "https:\/\/www.instagram.com\/iyincde\/",
     "social_youtube_link": "",
