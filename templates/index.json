@@ -165,6 +165,7 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {justify-content: center;}",
+        ".title {color: rgba(var(--color-foreground));}",
         "img {object-fit: contain;}"
       ],
       "settings": {
