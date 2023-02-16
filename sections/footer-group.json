@@ -5,12 +5,10 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "53f59a18-eec2-4595-b7dc-c40aa69d229d": {
-          "type": "image",
+        "b053f629-3d4c-423d-b5d9-66fb944050a3": {
+          "type": "brand_information",
           "settings": {
-            "image": "{{ shop.brand.square_logo }}",
-            "image_width": 260,
-            "alignment": ""
+            "show_social": true
           }
         },
         "footer-0": {
@@ -29,7 +27,7 @@
         }
       },
       "block_order": [
-        "53f59a18-eec2-4595-b7dc-c40aa69d229d",
+        "b053f629-3d4c-423d-b5d9-66fb944050a3",
         "footer-0",
         "footer-1"
       ],
@@ -38,7 +36,7 @@
         "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": false,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
