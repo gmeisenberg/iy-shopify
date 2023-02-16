@@ -13,3 +13,17 @@ h3, .h3,
 .banner__media:after {
   background: var(--color-base-accent-3) !important;
 }
+#Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d .title-wrapper-with-link {
+  justify-content: center;
+}
+#Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d .title {
+  color: rgba(var(--color-foreground));
+}
+#Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img {
+  object-fit: contain;
+  filter: saturate(0);
+  transition: all 2s ease;
+}
+#Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img:hover {
+  filter: saturate(1);
+}
