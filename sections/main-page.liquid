@@ -24,6 +24,8 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+  }
+  .page-header__image.brand-cover-image img {
     object-position: center 10%;
   }
   .page-header__image:after {
@@ -58,8 +60,10 @@
 {%- endstyle -%}
 
 {% assign page_header_image = shop.brand.cover_image %}
+{% assign page_header_class = 'brand-cover-image' %}
 {% if page.metafields.custom.header_image %}
   {% assign page_header_image = page.metafields.custom.header_image %}
+  {% assign page_header_class = 'custom-header-image' %}
 {% endif %}
 
 <header class="page-header">
