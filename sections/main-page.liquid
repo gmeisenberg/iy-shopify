@@ -64,7 +64,7 @@
 
 <header class="page-header">
   <div class="page-header__image">
-    {{ page_header_image | image_url }}
+    {{ page_header_image | image_url: width: 100% | image_tag }}
   </div>
   <h1 class="main-page-title page-title h0">
     {{ page.title | escape }}
