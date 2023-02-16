@@ -50,20 +50,21 @@
     "dfd07fd5-0349-4152-9cdc-bcba06ff8990": {
       "type": "collage",
       "blocks": {
-        "d57af4ed-26d7-42bc-894c-91753184e1b7": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "4031131e-20b4-416f-a6b4-275e3c3abb5d": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
         "23b8e76b-8fa8-4779-9eb4-a2349b30a09d": {
+          "type": "image",
+          "settings": {
+            "image_label": "",
+            "image_url": ""
+          }
+        },
+        "9eb243cc-884f-4a34-bcc6-bb03d0aefdb0": {
+          "type": "image",
+          "settings": {
+            "image_label": "",
+            "image_url": ""
+          }
+        },
+        "45d4170a-caa9-42f7-a3ea-bcedf59e1aa0": {
           "type": "image",
           "settings": {
             "image_label": "",
@@ -72,9 +73,9 @@
         }
       },
       "block_order": [
-        "d57af4ed-26d7-42bc-894c-91753184e1b7",
-        "4031131e-20b4-416f-a6b4-275e3c3abb5d",
-        "23b8e76b-8fa8-4779-9eb4-a2349b30a09d"
+        "23b8e76b-8fa8-4779-9eb4-a2349b30a09d",
+        "9eb243cc-884f-4a34-bcc6-bb03d0aefdb0",
+        "45d4170a-caa9-42f7-a3ea-bcedf59e1aa0"
       ],
       "settings": {
         "heading": "Multimedia collage",
