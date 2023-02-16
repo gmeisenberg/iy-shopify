@@ -50,21 +50,7 @@
     "dfd07fd5-0349-4152-9cdc-bcba06ff8990": {
       "type": "collage",
       "blocks": {
-        "23b8e76b-8fa8-4779-9eb4-a2349b30a09d": {
-          "type": "image",
-          "settings": {
-            "image_label": "",
-            "image_url": ""
-          }
-        },
-        "9eb243cc-884f-4a34-bcc6-bb03d0aefdb0": {
-          "type": "image",
-          "settings": {
-            "image_label": "",
-            "image_url": ""
-          }
-        },
-        "45d4170a-caa9-42f7-a3ea-bcedf59e1aa0": {
+        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9": {
           "type": "image",
           "settings": {
             "image_label": "",
@@ -73,9 +59,7 @@
         }
       },
       "block_order": [
-        "23b8e76b-8fa8-4779-9eb4-a2349b30a09d",
-        "9eb243cc-884f-4a34-bcc6-bb03d0aefdb0",
-        "45d4170a-caa9-42f7-a3ea-bcedf59e1aa0"
+        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9"
       ],
       "settings": {
         "heading": "Multimedia collage",
