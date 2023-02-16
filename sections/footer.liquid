@@ -111,7 +111,9 @@
                       {%- endif -%}
                       {%- if shop.address != blank -%}
                         <div class="rte">{{ shop.address.address1 }}. {{ shop.address.city }} {{ shop.address.province_code }} {{ shop.address.zip }}</div>
-                        <div class="rte">{{ shop.address.phone }}</div>
+                      {%- endif -%}
+                      {%- if shop.phone or shop.email -%}
+                        <div class="rte">{{ shop.phone }} | {{ shop.email }}</div>
                       {%- endif -%}
                       {%- if block.settings.show_social and has_social_icons -%}
                         {%- render 'social-icons' -%}
