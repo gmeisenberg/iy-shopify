@@ -90,10 +90,100 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d-1676586386f6d91310-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-dupont.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d-1676586386f6d91310-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-sswd.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d-1676586386f6d91310-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-horizon.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2955d88a-073d-489c-8556-69c267c35549": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-hh.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9e862226-50b1-433d-997d-941c8f0b6f5e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-pjf.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ec59add4-8b2d-49a8-9fd6-34dd75ed5cd9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-dogfish.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d-1676586386f6d91310-0",
+        "template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d-1676586386f6d91310-1",
+        "template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d-1676586386f6d91310-2",
+        "2955d88a-073d-489c-8556-69c267c35549",
+        "9e862226-50b1-433d-997d-941c8f0b6f5e",
+        "ec59add4-8b2d-49a8-9fd6-34dd75ed5cd9"
+      ],
+      "settings": {
+        "title": "Just some of our clients",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "dfd07fd5-0349-4152-9cdc-bcba06ff8990"
+    "dfd07fd5-0349-4152-9cdc-bcba06ff8990",
+    "d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d"
   ]
 }
