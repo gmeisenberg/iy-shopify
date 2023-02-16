@@ -164,6 +164,7 @@
         "ec59add4-8b2d-49a8-9fd6-34dd75ed5cd9"
       ],
       "custom_css": [
+        ".title-wrapper-with-link {justify-content: center;}",
         "img {object-fit: contain;}"
       ],
       "settings": {
