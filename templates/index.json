@@ -55,12 +55,12 @@
           "settings": {
           }
         },
-        "8be66ca2-bf22-4590-94f9-6440d5b460f6": {
+        "72053fe9-8a27-4081-a28b-d25f6c4843ad": {
           "type": "image",
           "settings": {
           }
         },
-        "8cb61840-3001-48ac-875d-866d80ebb103": {
+        "f5ac6540-f468-4f52-b8ad-2a1b0dc7257a": {
           "type": "image",
           "settings": {
           }
@@ -68,8 +68,8 @@
       },
       "block_order": [
         "template--17918623678738__dfd07fd5-0349-4152-9cdc-bcba06ff8990-1676520551f58fea40-0",
-        "8be66ca2-bf22-4590-94f9-6440d5b460f6",
-        "8cb61840-3001-48ac-875d-866d80ebb103"
+        "72053fe9-8a27-4081-a28b-d25f6c4843ad",
+        "f5ac6540-f468-4f52-b8ad-2a1b0dc7257a"
       ],
       "settings": {
         "heading": "Multimedia collage",
