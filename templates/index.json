@@ -90,10 +90,100 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "8790a619-14d8-4285-9c73-0a69f50a884d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17905253548306__8790a619-14d8-4285-9c73-0a69f50a884d-1676586386f6d91310-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-dupont.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17905253548306__8790a619-14d8-4285-9c73-0a69f50a884d-1676586386f6d91310-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-sswd.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--17905253548306__8790a619-14d8-4285-9c73-0a69f50a884d-1676586386f6d91310-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-horizon.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "87b6b780-fe41-4bfa-818d-c889b3f4e1ff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-hh.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0df323cf-7380-43db-bcee-8b36c8f1c787": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-pjf.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f99e0242-9c21-459b-9d21-0dc15639d222": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-dogfishhead.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17905253548306__8790a619-14d8-4285-9c73-0a69f50a884d-1676586386f6d91310-0",
+        "template--17905253548306__8790a619-14d8-4285-9c73-0a69f50a884d-1676586386f6d91310-1",
+        "template--17905253548306__8790a619-14d8-4285-9c73-0a69f50a884d-1676586386f6d91310-2",
+        "87b6b780-fe41-4bfa-818d-c889b3f4e1ff",
+        "0df323cf-7380-43db-bcee-8b36c8f1c787",
+        "f99e0242-9c21-459b-9d21-0dc15639d222"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "dfd07fd5-0349-4152-9cdc-bcba06ff8990"
+    "dfd07fd5-0349-4152-9cdc-bcba06ff8990",
+    "8790a619-14d8-4285-9c73-0a69f50a884d"
   ]
 }
