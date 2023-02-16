@@ -110,7 +110,7 @@
                         <div class="rte">{{ settings.brand_description }}</div>
                       {%- endif -%}
                       {%- if shop.address != blank -%}
-                        <div class="rte">{{ shop.address.address1 }}</div>
+                        <div class="rte">{{ shop.address | format_address }}</div>
                       {%- endif -%}
                       {%- if block.settings.show_social and has_social_icons -%}
                         {%- render 'social-icons' -%}
