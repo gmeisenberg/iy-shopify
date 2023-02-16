@@ -18,10 +18,13 @@
   }
 {%- endstyle -%}
 
-<div class="page-width page-width--narrow section-{{ section.id }}-padding">
+<header class="page-header">
   <h1 class="main-page-title page-title h0">
     {{ page.title | escape }}
   </h1>
+</header>
+
+<div class="page-width page-width--narrow section-{{ section.id }}-padding">
   <div class="rte">
     {{ page.content }}
   </div>
