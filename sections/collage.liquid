@@ -37,8 +37,8 @@
             {%- when 'image' -%}
               {% render 'card-image',
                 card_image: block.settings.image,
-                card_label: block.settings.image_label,
-                card_url: block.settings.image_url,
+                label: block.settings.image_label,
+                url: block.settings.image_url,
                 media_aspect_ratio: 'adapt',
                 extend_height: true,
                 wrapper_class: section.settings.card_styles
