@@ -12,6 +12,14 @@
   {% render 'card-image' %}
 {% endcomment %}
 
+{%- style -%}
+  .collage-card .media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+{%- endstyle -%}
+
 <div class="collage-card {% if wrapper_class and wrapper_class != 'none' %}{{ wrapper_class }}{% endif %} {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}card-wrapper {{ section.settings.card_styles }} color-{{ settings.card_color_scheme }}{% endif %}">
   <div class="{% if label != blank %}card{% endif %} card--standard {% if extend_height %}card--extend-height{% endif %}">
     <div class="{% if label != blank %}card__inner{% endif %}">
