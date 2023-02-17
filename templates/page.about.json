@@ -28,11 +28,14 @@
         "template--17906349506834__818ce11c-773c-42a3-bd15-61ae7a003358-1676413223f4b2de5d-0",
         "template--17906349506834__818ce11c-773c-42a3-bd15-61ae7a003358-1676413223f4b2de5d-1"
       ],
+      "custom_css": [
+        ".rich-text__heading {color: rgba(var(--color-foreground));}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": false,
+        "color_scheme": "accent-1",
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
