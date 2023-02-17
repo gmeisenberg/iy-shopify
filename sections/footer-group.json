@@ -97,7 +97,7 @@
     "819966b2-9912-42f5-9c29-c66b0d7bcc5d": {
       "type": "custom-liquid",
       "custom_css": [
-        "section.video-reviews {padding-bottom: 40px;}",
+        "section.video-reviews {padding-bottom: 80px;}",
         ".video-reviews__content {margin-bottom: 40px;}"
       ],
       "settings": {
