@@ -21,9 +21,8 @@ h3, .h3,
 }
 #Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img {
   object-fit: contain;
-  filter: saturate(0);
   transition: all 0.2s ease;
 }
 #Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img:hover {
-  filter: saturate(1);
+  filter: saturate(0);
 }
