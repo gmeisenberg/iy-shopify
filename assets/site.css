@@ -16,10 +16,10 @@ h3, .h3,
 .multicolumn .title-wrapper-with-link {
   justify-content: center;
 }
-#Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img {
+#Slider-sections--17905252925714__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img {
   object-fit: contain;
   transition: all 0.2s ease;
 }
-#Slider-template--17905253548306__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img:hover {
+#Slider-sections--17905252925714__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img:hover {
   filter: saturate(0);
 }
