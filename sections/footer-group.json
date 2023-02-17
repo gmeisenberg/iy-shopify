@@ -103,7 +103,7 @@
         "custom_liquid": "{%- if template.name == 'index' -%}\n<section class=\"video-reviews page-width\">\n<h2 class=\"h1\">Video Reviews<\/h2>\n<div class=\"video-reviews__content\">\nWe think we’re great, but don’t just listen to us, hear it in our customers’ own words.\n<\/div>\n<script>(function(){window.a=\"rt\";if(!(\"rt\"in window)){var c=document.createElement(\"script\");c.src=\"\/\/reviewtube.com\/embed\/e.php?p=CXZ\";c.async=true;var d=document.getElementsByTagName(\"script\")[0];d.parentNode.insertBefore(c,d);window.b=function(){}}})();<\/script>\n<div class='reviewtube' embed=\"CXZ\" viewType=\"fullwidth\" ><\/div>\n<\/section>\n{%- endif -%}",
         "color_scheme": "background-1",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "footer": {
