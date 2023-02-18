@@ -2,6 +2,7 @@
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 {{ 'component-slideshow.css' | asset_url | stylesheet_tag }}
 
+<section class="testimonials page-width center">
 {%- if section.settings.heading != blank -%}
   <h2 class="h1">{{ section.settings.heading | escape }}</h2>
 {%- endif -%}
@@ -10,6 +11,7 @@
     <span>{{ section.settings.subheading | escape }}</span>
   </div>
 {%- endif -%}
+</section>
 
 <slideshow-component class="slider-mobile-gutter color-{{ section.settings.color_scheme }}" role="region" aria-roledescription="{{ 'sections.slideshow.carousel' | t }}" aria-label="Testimonials slideshow">
   {%- if section.settings.auto_rotate and section.blocks.size > 1 -%}
