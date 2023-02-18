@@ -41,6 +41,14 @@
     data-autoplay="{{ section.settings.auto_rotate }}"
     data-speed="{{ section.settings.change_slides_speed }}"
   >
+    {%- if section.settings.heading != blank -%}
+      <h2 class="banner__heading h1">{{ block.settings.heading | escape }}</h2>
+    {%- endif -%}
+    {%- if section.settings.subheading != blank -%}
+      <div class="banner__text" {{ block.shopify_attributes }}>
+        <span>{{ block.settings.subheading | escape }}</span>
+      </div>
+    {%- endif -%}
     {%- for block in section.blocks -%}
       <div class="slideshow__slide grid__item grid--1-col slider__slide"
         id="Slide-{{ section.id }}-{{ forloop.index }}"
@@ -52,10 +60,10 @@
       >
         <div class="slideshow__text-wrapper banner__content banner__content--middle-center page-width color-{{ block.settings.color_scheme }}">
           <div class="slideshow__text banner__box content-container content-container--full-width-mobile  gradient slideshow__text--center slideshow__text-mobile--center">
-            {%- if block.settings.heading != blank -%}
+            {%- if section.settings.heading != blank -%}
               <h2 class="banner__heading h1">{{ block.settings.heading | escape }}</h2>
             {%- endif -%}
-            {%- if block.settings.subheading != blank -%}
+            {%- if section.settings.subheading != blank -%}
               <div class="banner__text" {{ block.shopify_attributes }}>
                 <span>{{ block.settings.subheading | escape }}</span>
               </div>
