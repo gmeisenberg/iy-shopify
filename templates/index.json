@@ -90,10 +90,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2eec5e38-24ba-42a0-a2e2-d280a489f553": {
+      "type": "testimonial",
+      "blocks": {
+        "template--17905253548306__2eec5e38-24ba-42a0-a2e2-d280a489f553-167675887904dcdaf5-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17905253548306__2eec5e38-24ba-42a0-a2e2-d280a489f553-167675887904dcdaf5-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17905253548306__2eec5e38-24ba-42a0-a2e2-d280a489f553-167675887904dcdaf5-0",
+        "template--17905253548306__2eec5e38-24ba-42a0-a2e2-d280a489f553-167675887904dcdaf5-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "auto_rotate": false,
+        "change_slides_speed": 5
+      }
     }
   },
   "order": [
     "image_banner",
-    "dfd07fd5-0349-4152-9cdc-bcba06ff8990"
+    "dfd07fd5-0349-4152-9cdc-bcba06ff8990",
+    "2eec5e38-24ba-42a0-a2e2-d280a489f553"
   ]
 }
