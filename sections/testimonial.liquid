@@ -42,11 +42,11 @@
     data-speed="{{ section.settings.change_slides_speed }}"
   >
     {%- if section.settings.heading != blank -%}
-      <h2 class="banner__heading h1">{{ block.settings.heading | escape }}</h2>
+      <h2 class="banner__heading h1">{{ section.settings.heading | escape }}</h2>
     {%- endif -%}
     {%- if section.settings.subheading != blank -%}
-      <div class="banner__text" {{ block.shopify_attributes }}>
-        <span>{{ block.settings.subheading | escape }}</span>
+      <div class="banner__text" {{ section.shopify_attributes }}>
+        <span>{{ section.settings.subheading | escape }}</span>
       </div>
     {%- endif -%}
     {%- for block in section.blocks -%}
