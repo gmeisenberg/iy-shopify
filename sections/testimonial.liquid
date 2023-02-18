@@ -2,6 +2,15 @@
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 {{ 'component-slideshow.css' | asset_url | stylesheet_tag }}
 
+{%- if section.settings.heading != blank -%}
+  <h2 class="h1">{{ section.settings.heading | escape }}</h2>
+{%- endif -%}
+{%- if section.settings.subheading != blank -%}
+  <div>
+    <span>{{ section.settings.subheading | escape }}</span>
+  </div>
+{%- endif -%}
+
 <slideshow-component class="slider-mobile-gutter color-{{ section.settings.color_scheme }}" role="region" aria-roledescription="{{ 'sections.slideshow.carousel' | t }}" aria-label="Testimonials slideshow">
   {%- if section.settings.auto_rotate and section.blocks.size > 1 -%}
     <div class="slideshow__controls slideshow__controls--top slider-buttons no-js-hidden">
@@ -51,14 +60,7 @@
       >
         <div class="slideshow__text-wrapper banner__content banner__content--middle-center page-width">
           <div class="slideshow__text banner__box content-container content-container--full-width-mobile  gradient slideshow__text--center slideshow__text-mobile--center">
-            {%- if section.settings.heading != blank -%}
-              <h2 class="banner__heading h1">{{ section.settings.heading | escape }}</h2>
-            {%- endif -%}
-            {%- if section.settings.subheading != blank -%}
-              <div class="banner__text">
-                <span>{{ section.settings.subheading | escape }}</span>
-              </div>
-            {%- endif -%}
+            testimonial slides
           </div>
         </div>
       </div>
