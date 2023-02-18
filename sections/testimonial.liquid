@@ -44,19 +44,18 @@
     {%- #for block in section.blocks -%}
       <div class="slideshow__slide grid__item grid--1-col slider__slide"
         id="Slide-{{ section.id }}-{{ forloop.index }}"
-        {{ block.shopify_attributes }}
         role="group"
         aria-roledescription="{{ 'sections.slideshow.slide' | t }}"
         aria-label="{{ forloop.index }} {{ 'general.slider.of' | t }} {{ forloop.length }}"
         tabindex="-1"
       >
-        <div class="slideshow__text-wrapper banner__content banner__content--middle-center page-width color-{{ block.settings.color_scheme }}">
+        <div class="slideshow__text-wrapper banner__content banner__content--middle-center page-width color-{{ section.settings.color_scheme }}">
           <div class="slideshow__text banner__box content-container content-container--full-width-mobile  gradient slideshow__text--center slideshow__text-mobile--center">
             {%- if section.settings.heading != blank -%}
               <h2 class="banner__heading h1">{{ section.settings.heading | escape }}</h2>
             {%- endif -%}
             {%- if section.settings.subheading != blank -%}
-              <div class="banner__text" {{ section.shopify_attributes }}>
+              <div class="banner__text">
                 <span>{{ section.settings.subheading | escape }}</span>
               </div>
             {%- endif -%}
