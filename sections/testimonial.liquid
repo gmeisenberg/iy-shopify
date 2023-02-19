@@ -129,6 +129,22 @@
       "label": "Subheading"
     },
     {
+      "type": "checkbox",
+      "id": "auto_rotate",
+      "label": "t:sections.slideshow.settings.auto_rotate.label",
+      "default": false
+    },
+    {
+      "type": "range",
+      "id": "change_slides_speed",
+      "min": 3,
+      "max": 9,
+      "step": 2,
+      "unit": "s",
+      "label": "t:sections.slideshow.settings.change_slides_speed.label",
+      "default": 5
+    },
+    {
       "type": "select",
       "id": "color_scheme",
       "options": [
@@ -158,20 +174,24 @@
       "info": "t:sections.slideshow.blocks.slide.settings.color_scheme.info"
     },
     {
-      "type": "checkbox",
-      "id": "auto_rotate",
-      "label": "t:sections.slideshow.settings.auto_rotate.label",
-      "default": false
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
     },
     {
       "type": "range",
-      "id": "change_slides_speed",
-      "min": 3,
-      "max": 9,
-      "step": 2,
-      "unit": "s",
-      "label": "t:sections.slideshow.settings.change_slides_speed.label",
-      "default": 5
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
     }
   ]
 }
