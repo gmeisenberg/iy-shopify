@@ -2,7 +2,7 @@
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 {{ 'component-slideshow.css' | asset_url | stylesheet_tag }}
 
-<section class="testimonials">
+<section class="testimonials color-{{ section.settings.color_scheme }}">
   <div class="page-width center">
     {%- if section.settings.heading != blank -%}
       <h2 class="h1">{{ section.settings.heading | escape }}</h2>
@@ -14,7 +14,7 @@
     {%- endif -%}
   </div>
 
-  <slideshow-component class="slider-mobile-gutter color-{{ section.settings.color_scheme }}" role="region" aria-roledescription="{{ 'sections.slideshow.carousel' | t }}" aria-label="Testimonials slideshow">
+  <slideshow-component class="slider-mobile-gutter" role="region" aria-roledescription="{{ 'sections.slideshow.carousel' | t }}" aria-label="Testimonials slideshow">
     {%- if section.settings.auto_rotate and blogs.testimonials.articles_count > 1 -%}
       <div class="slideshow__controls slideshow__controls--top slider-buttons no-js-hidden">
         <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="{{ 'sections.slideshow.previous_slideshow' | t }}" aria-controls="Slider-{{ section.id }}">{% render 'icon-caret' %}</button>
