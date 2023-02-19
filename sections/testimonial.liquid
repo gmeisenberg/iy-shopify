@@ -2,7 +2,7 @@
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
 {{ 'component-slideshow.css' | asset_url | stylesheet_tag }}
 
-<section class="testimonials color-{{ section.settings.color_scheme }}">
+<section class="testimonials color-{{ section.settings.color_scheme }} section-{{ section.id }}-padding">
   <div class="page-width center">
     {%- if section.settings.heading != blank -%}
       <h2 class="h1">{{ section.settings.heading | escape }}</h2>
