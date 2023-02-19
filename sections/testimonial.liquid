@@ -3,6 +3,9 @@
 {{ 'component-slideshow.css' | asset_url | stylesheet_tag }}
 
 {%- style -%}
+  section.testimonials .banner {
+    min-height: 30rem;
+  }
   section.testimonials .slideshow__controls {
     border: none;
   }
@@ -64,7 +67,7 @@
       </noscript>
     {%- endif -%}
   
-    <div class="slideshow banner banner--small grid grid--1-col slider slider--everywhere"
+    <div class="slideshow banner grid grid--1-col slider slider--everywhere"
       id="Slider-{{ section.id }}"
       aria-live="polite"
       aria-atomic="true"
