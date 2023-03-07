@@ -81,6 +81,42 @@
             "row_content": "<p>Yes, IY will gladly embroider or screen print customer supplied goods. (Note: Some restrictions apply. For Details: Call 302.999.0562 or email: info@iyincde.com)<\/p>",
             "page": ""
           }
+        },
+        "4e734e51-6175-4153-8e83-63c2b12b9f13": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I buy goods from you?",
+            "icon": "none",
+            "row_content": "<p>Yes, IY has thousands of items available. Browse our online catalogs (hyperlink to catalog: www.iyinconline.com ) or visit our showroom at 1412 Kirkwood Hwy., Wilmington, DE 19805<\/p>",
+            "page": ""
+          }
+        },
+        "5ab827c6-b48d-4fd4-b70a-e783036a1741": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "7f79dc0e-9a57-4785-8c9c-21c76a9efbc5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "31b82e00-4714-4155-9520-373759e5ebc0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -91,7 +127,11 @@
         "f80a69fe-187f-43b3-a265-e74b9e6b44a3",
         "f783a332-cb0b-4a2d-8d1a-679c34480c42",
         "929d7ff3-9cc9-40d3-8f8e-83924aa6314d",
-        "538086d7-b6f7-4b75-b7aa-2f813aadee7f"
+        "538086d7-b6f7-4b75-b7aa-2f813aadee7f",
+        "4e734e51-6175-4153-8e83-63c2b12b9f13",
+        "5ab827c6-b48d-4fd4-b70a-e783036a1741",
+        "7f79dc0e-9a57-4785-8c9c-21c76a9efbc5",
+        "31b82e00-4714-4155-9520-373759e5ebc0"
       ],
       "settings": {
         "caption": "",
