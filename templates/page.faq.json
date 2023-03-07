@@ -54,6 +54,15 @@
             "row_content": "<p>Yes. Call or email us today for your free estimate (302.999.0562; info@iyincde.com)<\/p>",
             "page": ""
           }
+        },
+        "f783a332-cb0b-4a2d-8d1a-679c34480c42": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What forms of payment do you accept?",
+            "icon": "none",
+            "row_content": "<p>We accept Master Card, Visa, Discover, personal or corporate Checks, or Cash payments.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -61,7 +70,8 @@
         "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-1",
         "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-2",
         "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-3",
-        "f80a69fe-187f-43b3-a265-e74b9e6b44a3"
+        "f80a69fe-187f-43b3-a265-e74b9e6b44a3",
+        "f783a332-cb0b-4a2d-8d1a-679c34480c42"
       ],
       "settings": {
         "caption": "",
