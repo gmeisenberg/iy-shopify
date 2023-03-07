@@ -94,9 +94,9 @@
         "5ab827c6-b48d-4fd4-b70a-e783036a1741": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "What design, logo, and art file formats do you accept?",
+            "icon": "none",
+            "row_content": "<p>We accept .jpeg and .pdf format design files. Email your art or design or logo to: info@iyincde.com<\/p>",
             "page": ""
           }
         },
