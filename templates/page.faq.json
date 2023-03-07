@@ -103,9 +103,9 @@
         "7f79dc0e-9a57-4785-8c9c-21c76a9efbc5": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How can I send you my artwork, logo or design?",
+            "icon": "none",
+            "row_content": "<p>We accept .jpeg and .pdf format design files. Email your artwork, design or logo to: info@iyincde.com and we will convert it to a beautiful embroidered design.<\/p>",
             "page": ""
           }
         },
