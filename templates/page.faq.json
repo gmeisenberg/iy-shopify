@@ -63,6 +63,15 @@
             "row_content": "<p>We accept Master Card, Visa, Discover, personal or corporate Checks, or Cash payments.<\/p>",
             "page": ""
           }
+        },
+        "929d7ff3-9cc9-40d3-8f8e-83924aa6314d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What items can you embroider?",
+            "icon": "none",
+            "row_content": "<p>Anything we can secure in our embroidery hoops, can be embroidered. Here are just a few of our most commonly embroidered items:<\/p><p>Towels, Blankets, Sheets, Pillow Cases, Pillow Shams, Shower Curtains, Baby Blankets, Lovie Blanket™, Personalizeable Pals™: Messenger Bags, Tote Bags, Back Packs, Brief Cases, Hats, Coats, Sport Shirts, Dress Shirts, Tee Shirts, Sweat Shirts, Shorts, Sweat Pants, Warm-Up Suits, Jackets, Coats, Christmas Stockings…..<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -71,7 +80,8 @@
         "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-2",
         "template--17843031179538__6938eb31-5b31-49c4-b955-89b4deed8718-167589316835b7e9d2-3",
         "f80a69fe-187f-43b3-a265-e74b9e6b44a3",
-        "f783a332-cb0b-4a2d-8d1a-679c34480c42"
+        "f783a332-cb0b-4a2d-8d1a-679c34480c42",
+        "929d7ff3-9cc9-40d3-8f8e-83924aa6314d"
       ],
       "settings": {
         "caption": "",
