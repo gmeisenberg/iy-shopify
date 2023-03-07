@@ -117,6 +117,33 @@
             "row_content": "<p>Yes, we have thousands of stock designs available that can be customized for your needs.Browse our design library catalog (www.dakotacollectibles.com) We also have a graphic designer available to create your perfect design or logo from scratch. (Note: Set-up \/ art charges may apply)<\/p>",
             "page": ""
           }
+        },
+        "595ce5dd-581b-4d16-9b0b-16e6fc18ccbc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you provide shipping services?",
+            "icon": "none",
+            "row_content": "<p>Yes, IY can ship your order via UPS anywhere in the continental U.S. (Note: Shipping Charges may apply)<\/p>",
+            "page": ""
+          }
+        },
+        "1dcd5447-407f-46ee-8d1a-37f50b4673cd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can you create a design or logo for me?",
+            "icon": "none",
+            "row_content": "<p>Yes, we have thousands of stock designs available that can be customized for your needs.Browse our design library catalog (www.dakotacollectibles.com) We also have a graphic designer available to create your perfect design or logo from scratch. (Note: Set-up \/ art charges may apply)<\/p>",
+            "page": ""
+          }
+        },
+        "563bf664-56ad-4250-b8ed-598f5801ec79": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can you create a design or logo for me?",
+            "icon": "none",
+            "row_content": "<p>Yes, we have thousands of stock designs available that can be customized for your needs.Browse our design library catalog (www.dakotacollectibles.com) We also have a graphic designer available to create your perfect design or logo from scratch. (Note: Set-up \/ art charges may apply)<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -131,7 +158,10 @@
         "4e734e51-6175-4153-8e83-63c2b12b9f13",
         "5ab827c6-b48d-4fd4-b70a-e783036a1741",
         "7f79dc0e-9a57-4785-8c9c-21c76a9efbc5",
-        "31b82e00-4714-4155-9520-373759e5ebc0"
+        "31b82e00-4714-4155-9520-373759e5ebc0",
+        "595ce5dd-581b-4d16-9b0b-16e6fc18ccbc",
+        "1dcd5447-407f-46ee-8d1a-37f50b4673cd",
+        "563bf664-56ad-4250-b8ed-598f5801ec79"
       ],
       "settings": {
         "caption": "",
