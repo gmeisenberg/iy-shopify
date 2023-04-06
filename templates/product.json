@@ -30,7 +30,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button"
+            "picker_type": "dropdown"
           }
         },
         "92d4cd67-68c0-458b-82eb-fb498d08c354": {
