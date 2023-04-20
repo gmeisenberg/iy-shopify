@@ -42,7 +42,7 @@
           "settings": {
             "heading": "What is your turn-around time?",
             "icon": "none",
-            "row_content": "<p>Normal Turn-around time is 5 – 10 business days. However, we always do our best to meet our customer’s deadlines.<\/p>",
+            "row_content": "<p>We typically have a turn around time of 5-10 days, but please give us a call to verify current turn around time.<\/p>",
             "page": ""
           }
         },
@@ -51,7 +51,7 @@
           "settings": {
             "heading": "Do you offer free estimates?",
             "icon": "none",
-            "row_content": "<p>Yes. Call or email us today for your free estimate (302.999.0562; info@iyincde.com)<\/p>",
+            "row_content": "<p>Yes, please give us a call! <a href=\"tel:302-999-0562\" title=\"tel:302-999-0562\">302-999-0562<\/a><\/p>",
             "page": ""
           }
         },
@@ -60,7 +60,7 @@
           "settings": {
             "heading": "What forms of payment do you accept?",
             "icon": "none",
-            "row_content": "<p>We accept Master Card, Visa, Discover, personal or corporate Checks, or Cash payments.<\/p>",
+            "row_content": "<p>We accept all major credit cards, checks, and cash.<\/p>",
             "page": ""
           }
         },
@@ -69,7 +69,7 @@
           "settings": {
             "heading": "What items can you embroider?",
             "icon": "none",
-            "row_content": "<p>Anything we can secure in our embroidery hoops, can be embroidered. Here are just a few of our most commonly embroidered items:<\/p><p>Towels, Blankets, Sheets, Pillow Cases, Pillow Shams, Shower Curtains, Baby Blankets, Lovie Blanket™, Personalizeable Pals™: Messenger Bags, Tote Bags, Back Packs, Brief Cases, Hats, Coats, Sport Shirts, Dress Shirts, Tee Shirts, Sweat Shirts, Shorts, Sweat Pants, Warm-Up Suits, Jackets, Coats, Christmas Stockings…..<\/p>",
+            "row_content": "<p>Anything we can secure in our embroidery hoops can be embroidered. Here are just a few of our most commonly embroidered items:<\/p><p>Towels, Blankets, Sheets, Pillow Cases, Pillow Shams, Shower Curtains, Baby Blankets, Lovie Blanket™, Personalizeable Pals™: Messenger Bags, Tote Bags, Back Packs, Brief Cases, Hats, Coats, Sport Shirts, Dress Shirts, Tee Shirts, Sweat Shirts, Shorts, Sweat Pants, Warm-Up Suits, Jackets, Coats, Christmas Stockings…..<\/p>",
             "page": ""
           }
         },
@@ -78,7 +78,7 @@
           "settings": {
             "heading": "Can I bring in my own goods for embroidery or screen printing?",
             "icon": "none",
-            "row_content": "<p>Yes, IY will gladly embroider or screen print customer supplied goods. (Note: Some restrictions apply. For Details: Call 302.999.0562 or email: info@iyincde.com)<\/p>",
+            "row_content": "<p>Yes, IY will gladly embroider or screen print customer supplied goods. (Note: some restrictions apply. For details, call <a href=\"tel:302-999-0562\" title=\"tel:302-999-0562\">302-999-0562<\/a> or email <a href=\"mailto:info@iyincde.com\" title=\"mailto:info@iyincde.com\">info@iyincde.com<\/a>)<\/p>",
             "page": ""
           }
         },
@@ -87,7 +87,7 @@
           "settings": {
             "heading": "Can I buy goods from you?",
             "icon": "none",
-            "row_content": "<p>Yes, IY has thousands of items available. Browse our online catalogs (hyperlink to catalog: www.iyinconline.com ) or visit our showroom at 1412 Kirkwood Hwy., Wilmington, DE 19805<\/p>",
+            "row_content": "<p>Yes, IY has thousands of items available. Please visit our online catalogs or give us a call to schedule an appointment to visit our showroom to see some of our top sellers.<\/p>",
             "page": ""
           }
         },
@@ -96,7 +96,7 @@
           "settings": {
             "heading": "What design, logo, and art file formats do you accept?",
             "icon": "none",
-            "row_content": "<p>We accept .jpeg and .pdf format design files. Email your art or design or logo to: info@iyincde.com<\/p>",
+            "row_content": "<p>For embroidery, we accept .jpeg and .pdf format designs. For screen printing and promotional products we require vector artwork (.eps). Please email your artwork to <a href=\"mailto:info@iyincde.com\" title=\"mailto:info@iyincde.com\">info@iyincde.com<\/a>.<\/p>",
             "page": ""
           }
         },
@@ -123,7 +123,7 @@
           "settings": {
             "heading": "Do you provide shipping services?",
             "icon": "none",
-            "row_content": "<p>Yes, IY can ship your order via UPS anywhere in the continental U.S. (Note: Shipping Charges may apply)<\/p>",
+            "row_content": "<p>Yes, IY can ship your order via UPS anywhere in the continental U.S. (Note: Shipping charges may apply)<\/p>",
             "page": ""
           }
         },
@@ -132,7 +132,7 @@
           "settings": {
             "heading": "Can I dropship my goods to your shop for decoration?",
             "icon": "none",
-            "row_content": "<p>Yes, dropship your order to our shop: Initially Yours, Inc., 1412 Kirkwood Hwy., Wilmington, DE 1980<\/p>",
+            "row_content": "<p>Yes, drop ship your order to: <\/p><p>Initially Yours, Inc. <br\/>1412 Kirkwood Highway <br\/>Wilmington DE 19805<\/p><p>Please note, processing charges may apply.<\/p>",
             "page": ""
           }
         },
@@ -141,7 +141,7 @@
           "settings": {
             "heading": "When are you open?",
             "icon": "none",
-            "row_content": "<p><strong>Regular Shop Hours (Labor Day-Memorial Day):<br\/><\/strong>Monday – Thursday: 9am – 3 pm<br\/>Friday: 9am – Noon<br\/>Saturday & Sunday: Closed<\/p><p><strong>Summer Shop Hours:<\/strong><br\/>Monday – Thursday: 9am – 3 pm<br\/>Friday, Saturday & Sunday: Closed<\/p>",
+            "row_content": "<p>We are open by appointment only. Our appointment hours are Monday-Thursday from 9am-3pm.<\/p>",
             "page": ""
           }
         }
