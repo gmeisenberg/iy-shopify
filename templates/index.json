@@ -61,17 +61,17 @@
         "8886928f-6284-46d9-9914-5d28646252b8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0262.jpg",
-            "image_label": "Embroidered Headwear",
-            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
+            "image": "shopify:\/\/shop_images\/screen-printing-UlsterDE.png",
+            "image_label": "Screen Printing",
+            "image_url": "shopify:\/\/pages\/screen-printing"
           }
         },
         "b399aac3-7b21-482e-8df3-637715ad4bc2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0262.jpg",
-            "image_label": "Sports Uniforms & More",
-            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
+            "image": "shopify:\/\/shop_images\/promo-products-DE-moving-storage.png",
+            "image_label": "Promotional Products",
+            "image_url": "shopify:\/\/pages\/promotional-products"
           }
         }
       },
