@@ -15,7 +15,7 @@
           "settings": {
             "heading": "Do you have minimum quantities on Embroidery?",
             "icon": "none",
-            "row_content": "<p>No.<\/p>",
+            "row_content": "<p>Yes, we have a minimum of 6 pieces for embroidery. You can combine any type of top (t-shirts, hoodies, jackets, etc.). Hats are accounted for separately.<\/p>",
             "page": ""
           }
         },
@@ -24,7 +24,7 @@
           "settings": {
             "heading": "Do you have minimum quantities on Screen Printing?",
             "icon": "none",
-            "row_content": "<p>Yes… IY has a 12 piece minimum for screen printed items. (Restrictions apply- call for details 302.999.0562)<\/p>",
+            "row_content": "<p>Yes, we have a minimum of 24 pieces for screen printing. (Restrictions apply. Call for details <a href=\"tel:302-999-0562\" title=\"tel:302-999-0562\">302-999-0562<\/a>).<\/p>",
             "page": ""
           }
         },
@@ -33,7 +33,7 @@
           "settings": {
             "heading": "Do you have minimum quantites on Promotional Products?",
             "icon": "none",
-            "row_content": "<p>Yes….Minimum quantities vary by item- call for details 302.999.0562)<br\/><\/p>",
+            "row_content": "<p>Yes, minimum quantities vary by item. Please call for details. <a href=\"tel:302-999-0562\" title=\"tel:302-999-0562\">302-999-0562<\/a><\/p>",
             "page": ""
           }
         },
