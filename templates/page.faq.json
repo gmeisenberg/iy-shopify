@@ -14,7 +14,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Do you have minimum quantities on Embroidery?",
-            "icon": "none",
+            "icon": "map_pin",
             "row_content": "<p>Yes, we have a minimum of 6 pieces for embroidery. You can combine any type of top (t-shirts, hoodies, jackets, etc.). Hats are accounted for separately.<\/p>",
             "page": ""
           }
