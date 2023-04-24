@@ -23,3 +23,6 @@
 #Slider-sections--17905252925714__d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d img:hover {
   filter: saturate(0);
 }
+.footer-block__brand-info a {
+  text-decoration: none;
+}
