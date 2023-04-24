@@ -125,7 +125,11 @@
                         <div class="rte">{{ settings.brand_description }}</div>
                       {%- endif -%}
                       {%- if shop.address != blank -%}
-                        <div class="rte">{{ shop.address.address1 }}. {{ shop.address.city }} {{ shop.address.province_code }} {{ shop.address.zip }}</div>
+                        <div class="rte">
+                          <a target="_blank" href="https://www.google.com/maps/search/{{ shop.address.address1 }}. {{ shop.address.city }} {{ shop.address.province_code }} {{ shop.address.zip }}">
+                            {{ shop.address.address1 }} {{ shop.address.city }} {{ shop.address.province_code }} {{ shop.address.zip }}
+                          </a>
+                        </div>
                       {%- endif -%}
                       {%- if shop.phone or shop.email -%}
                         <div class="rte"><a href="tel:{{ shop.phone }}">{{ shop.phone }}</a> | <a href="mailto:{{ shop.email }}">{{ shop.email }}</a></div>
