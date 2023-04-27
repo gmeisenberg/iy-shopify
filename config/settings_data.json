@@ -1,7 +1,7 @@
 {
   "current": {
     "logo": "{{ shop.brand.logo }}",
-    "logo_width": 250,
+    "logo_width": 230,
     "favicon": "shopify:\/\/shop_images\/IYI_favicon.png",
     "colors_solid_button_labels": "{{ shop.brand.colors.primary[0].foreground }}",
     "colors_accent_1": "{{ shop.brand.colors.primary[0].background }}",
