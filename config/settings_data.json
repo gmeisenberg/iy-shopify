@@ -2,6 +2,7 @@
   "current": {
     "logo": "{{ shop.brand.logo }}",
     "logo_width": 250,
+    "favicon": "shopify:\/\/shop_images\/IY-logo-vertical_2c646d72-cc18-4ae6-8067-1b3fc871202a.jpg",
     "colors_solid_button_labels": "{{ shop.brand.colors.primary[0].foreground }}",
     "colors_accent_1": "{{ shop.brand.colors.primary[0].background }}",
     "gradient_accent_1": "",
