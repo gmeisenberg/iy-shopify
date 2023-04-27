@@ -114,7 +114,7 @@
           "settings": {
             "heading": "Do you provide shipping services?",
             "icon": "none",
-            "row_content": "<p>Yes, IY can ship your order via UPS anywhere in the continental U.S. (Note: Shipping charges may apply)<\/p>",
+            "row_content": "<p>Yes, IY can ship your order via UPS anywhere in the continental U.S. (Note: Shipping charges will apply)<\/p>",
             "page": ""
           }
         },
