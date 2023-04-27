@@ -42,7 +42,7 @@
           "settings": {
             "heading": "What is your turn-around time?",
             "icon": "none",
-            "row_content": "<p>We typically have a turn around time of 5-10 days, but please give us a call to verify current turn around time.<\/p>",
+            "row_content": "<p>We typically have a turnaround time of 5-10 <strong>business<\/strong> days from proof approval, but please give us a call to verify current turnaround time.<\/p>",
             "page": ""
           }
         },
