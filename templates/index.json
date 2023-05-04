@@ -7,7 +7,7 @@
           "type": "heading",
           "settings": {
             "heading": "Initially Yours, Inc is a family, women-owned small business located in Wilmington, DE providing embroidery, screen printing, and promotional items.",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text": {
@@ -37,13 +37,16 @@
         "text",
         "button"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IYI_HeroImage_replace.5.3.2023.jpg",
-        "image_overlay_opacity": 60,
+        "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": false,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
