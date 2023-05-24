@@ -108,6 +108,8 @@
     "sale_badge_color_scheme": "accent-2",
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "text",
+    "brand_headline": "Embroidery in Wilmington, DE",
+    "brand_description": "<p>Initially Yours Inc. offers top-quality embroidery services in Wilmington, DE. Our skilled team creates bespoke embroidery designs on apparel, bags, and hats using advanced equipment. We specialize in personalized gifts and branding solutions that leave a lasting impression. Contact us now to bring your vision to life!<\/p>",
     "brand_image": "{{ shop.brand.square_logo }}",
     "brand_image_width": 260,
     "social_facebook_link": "https:\/\/www.facebook.com\/InitiallyYoursInc",
