@@ -96,15 +96,6 @@
         "padding_bottom": 0
       }
     },
-    "30fc10f8-4ad0-4ea0-9df8-bf578d23218e": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<!-- Calendly badge widget begin -->\n<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async><\/script>\n<script type=\"text\/javascript\">window.onload = function() { Calendly.initBadgeWidget({ url: 'https:\/\/calendly.com\/greg-1025\/30min', text: 'Schedule an appoinment', color: '#0069ff', textColor: '#ffffff', branding: true }); }<\/script>\n<!-- Calendly badge widget end -->",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -153,7 +144,6 @@
   "order": [
     "d53ae852-70c5-43be-8b3e-8fa9ed8d1e0d",
     "819966b2-9912-42f5-9c29-c66b0d7bcc5d",
-    "30fc10f8-4ad0-4ea0-9df8-bf578d23218e",
     "footer"
   ]
 }
