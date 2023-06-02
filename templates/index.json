@@ -57,14 +57,6 @@
     "dfd07fd5-0349-4152-9cdc-bcba06ff8990": {
       "type": "collage",
       "blocks": {
-        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IYI_embroidery_image_jpeg.jpg",
-            "image_label": "Embroidered Logo Apparel",
-            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
-          }
-        },
         "8886928f-6284-46d9-9914-5d28646252b8": {
           "type": "image",
           "settings": {
@@ -80,12 +72,20 @@
             "image_label": "Promotional Products",
             "image_url": "shopify:\/\/pages\/promotional-products"
           }
+        },
+        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IYI_embroidery_image_jpeg.jpg",
+            "image_label": "Embroidered Logo Apparel",
+            "image_url": "shopify:\/\/pages\/embroidered-logo-apparel"
+          }
         }
       },
       "block_order": [
-        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9",
         "8886928f-6284-46d9-9914-5d28646252b8",
-        "b399aac3-7b21-482e-8df3-637715ad4bc2"
+        "b399aac3-7b21-482e-8df3-637715ad4bc2",
+        "423d0ec5-701b-4d09-9e4f-262ca6f4c2c9"
       ],
       "settings": {
         "heading": "Our Specialties",
