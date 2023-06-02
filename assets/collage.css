@@ -80,8 +80,8 @@
     grid-column: span 2;
   }
   
-  .collage__item--top:first-child media,
-  .collage__item--bottom:last-child media {
+  .collage__item--top:first-child .media,
+  .collage__item--bottom:last-child .media {
     --ratio-percent: 50%;
   }
 
