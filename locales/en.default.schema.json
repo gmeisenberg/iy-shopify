@@ -485,6 +485,9 @@
           },
           "options__4": {
             "label": "Bottom wide block"
+          },
+          "options__5": {
+            "label": "Row"
           }
         },
         "mobile_layout": {
