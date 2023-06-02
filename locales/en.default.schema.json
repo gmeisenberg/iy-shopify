@@ -479,6 +479,12 @@
           },
           "options__2": {
             "label": "Right large block"
+          },
+          "options__3": {
+            "label": "Top wide block"
+          },
+          "options__4": {
+            "label": "Bottom wide block"
           }
         },
         "mobile_layout": {
