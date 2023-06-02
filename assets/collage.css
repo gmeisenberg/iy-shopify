@@ -78,6 +78,7 @@
   .collage__item--top:first-child,
   .collage__item--bottom:last-child {
     grid-column: span 2;
+    --ratio-percent: 50%;
   }
 
   .collage__item--left:nth-child(3n - 2) {
