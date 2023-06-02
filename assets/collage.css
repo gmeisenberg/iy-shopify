@@ -82,7 +82,7 @@
   
   .collage__item--top:first-child .media,
   .collage__item--bottom:last-child .media {
-    --ratio-percent: 50%;
+    --ratio-percent: 50% !important;
   }
 
   .collage__item--left:nth-child(3n - 2) {
