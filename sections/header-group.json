@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "2024 SBA Woman-Owned Business of the Year",
             "text_alignment": "center",
